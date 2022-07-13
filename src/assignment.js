@@ -23,13 +23,6 @@ function sumOfNumbers(arrayOfNumbers) {
 }
 
 
-// function sumOfNumbers(arrayOfNumbers){
-//   let sum = 0;
-//   for(let i = 0; i < arrayOfNumbers.length; i++){
-//     sum += arrayOfNumbers[i];
-//   }
-//   return sum;
-// }
 
 
  assignment.sumOfNumbers = sumOfNumbers;
@@ -74,7 +67,7 @@ assignment.countEvenNumbers = countEvenNumbers;
 function celsiusToFahrenheit(arrayOfNumbers) {
     return arrayOfNumbers;
 }
-// assignment.celsiusToFahrenheit = celsiusToFahrenheit;
+//assignment.celsiusToFahrenheit = celsiusToFahrenheit;
 
 
 // ========================
